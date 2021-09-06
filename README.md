@@ -1,5 +1,5 @@
 # The Whimsical Web
-
+-----
 A curated list of websites with an extra bit of fun.  
 
 [whimsical.club](https://whimsical.club) 
